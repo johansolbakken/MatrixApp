@@ -1,1 +1,1 @@
-./vendor/premake/macosx xcode4
+vendor/premake/macosx/premake5 xcode4
