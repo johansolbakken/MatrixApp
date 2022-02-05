@@ -1,6 +1,7 @@
 -- Premake.lua
 workspace "MatrixApp"
     architecture "x64"
+    startproject "matrixapp"
     configurations { 
         "Debug", 
         "Release",
