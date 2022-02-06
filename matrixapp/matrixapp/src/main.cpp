@@ -1,6 +1,6 @@
-#include <iostream>
+#include "core/Application.hpp"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    MatrixApp::Application::GetInstance().Run();
     return 0;
 }
