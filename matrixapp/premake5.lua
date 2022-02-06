@@ -135,7 +135,7 @@ project "matrixapp"
         "%{prj.name}/src"
     }
 
-	links { "matrixapp" }
+	links { "gauss", "matrixutil" }
 
 	filter "configurations:Debug"
         defines { "DEBUG" }

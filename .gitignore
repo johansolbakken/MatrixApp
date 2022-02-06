@@ -2,3 +2,4 @@
 **.xcworkspace
 **/bin
 **/Build
+**/.DS_Store
